@@ -1,7 +1,7 @@
 <?php
 /*
  * #develotips001- Primer programa de WPLIVE
- * Author: Oscar Abad Folgueira
+ * Author: Oh! Yeah Dev
  * Author URL: https://ohyeahdev.com
  * Título: Cómo añadir código a WordPress
  */ 
